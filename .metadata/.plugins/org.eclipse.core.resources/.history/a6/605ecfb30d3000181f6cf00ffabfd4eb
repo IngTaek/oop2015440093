@@ -1,0 +1,16 @@
+
+public class Twentyfive_2 {
+
+	public static void main(String[] args) {
+
+		
+		int i, j;
+		
+		for(j = 0; 5 - j <= 0; j++)
+		{
+			System.out.print("¾È³ç");
+		}
+
+	}
+
+}
