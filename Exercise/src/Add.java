@@ -12,12 +12,14 @@ public class Add {
 		
 		int x;
 		int y;
+		int z;
 		int sum;
 		
 		x = 100;
 		y = 200;
+		z = 300;
 		
-		sum = x + y;
+		sum = x + y + z;
 		
 		System.out.println(sum);
 	}
